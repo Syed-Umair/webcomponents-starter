@@ -1,6 +1,6 @@
 {
   "name": "@syed_umair/webcomponents-starter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Proof of Concept for building WebComponents",
   "main": "dist/my-component.js",
   "scripts": {
