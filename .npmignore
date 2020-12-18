@@ -1,0 +1,12 @@
+src/
+test/
+node_modules/
+public/
+.babelrc
+.eslintrc
+.prettierrc
+.eslintignore
+.gitignore
+.prettierignore
+jest.config.js
+webpack.config.js
