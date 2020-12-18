@@ -12,38 +12,40 @@ Proof of Concept for building Native WebComponents
 - Sass
 
 ### To Use
-  import the module first by the following methods
-  ```
-  <script src="https://unpkg.com/@syed_umair/webcomponents-starter@latest"></script>
-  ```
 
-  or
+import the module first by the following methods
 
-  ```
-  npm i @syed_umair/webcomponents-starter
+```
+<script src="https://unpkg.com/@syed_umair/webcomponents-starter@latest"></script>
+```
 
-  import '@syed_umair/webcomponents-starter'
-  ```
+or
 
-  then use custom tags
+```
+npm i @syed_umair/webcomponents-starter
 
-  ```
-  <todo-app></todo-app>
-  <hello-world></hello-world>
-  ```
+import '@syed_umair/webcomponents-starter'
+```
+
+then use custom tags
+
+```
+<todo-app></todo-app>
+<hello-world></hello-world>
+```
 
 ### Development
 
-  setup
+setup
 
-  ```
-    npm i
-    npm run build
-    npm run test
-  ```
+```
+  npm i
+  npm run build
+  npm run test
+```
 
-  Test the custom tags locally in localhost:8080
+Test the custom tags locally in localhost:8080
 
-  ```
-  npm run dev
-  ```
+```
+npm run dev
+```
